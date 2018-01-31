@@ -108,5 +108,7 @@ $ cordova run android
 ```
 
 ## Output
-![Refreshing](screenshots/Refreshing.png)
-![List](screenshots/List.png)
+
+Refreshing Cache            |  List of Peers
+:-------------------------:|:-------------------------:
+![Refreshing](screenshots/Refreshing.png)  | ![List](screenshots/List.png)
